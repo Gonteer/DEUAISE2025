@@ -1,3 +1,6 @@
+**수업자료**
+https://o365deu-my.sharepoint.com/:b:/g/personal/kmyco_office_deu_ac_kr/ESf6V3_l8ttNtZJWkuWoHWQBnaw3FCNSLMGX5ybzbqY4GQ?e=ct72Cz
+
 **실습 할 때** 사용할 자료
 
 Gemini
@@ -29,3 +32,4 @@ NotebookLM 실습할 때
 - https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101_ko.pdf
 - https://wikidocs.net/280705
 - ------------------------------------
+
